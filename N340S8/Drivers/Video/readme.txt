@@ -1,0 +1,1 @@
+630_208a_win9x is for Windows 95 , Windows 98 , Windows ME , Windows 98 SE
