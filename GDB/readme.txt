@@ -1,0 +1,2 @@
+Collection of gdb builds from TDM-GCC. Can be used on QTCreator or CLion because include Python support.
+Works great together with Nuwen's MinGW Distros: https://derplayer.neocities.org/repo/other/devenv.html (https://nuwen.net/mingw.html)
